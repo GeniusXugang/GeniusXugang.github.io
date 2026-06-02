@@ -137,6 +137,72 @@ section .main-body li {
     margin-bottom: 0.75rem;
 }
 
+.profile-lead {
+    margin: 0.8rem 0 1rem;
+    padding: 1.1rem 1.25rem;
+    border-left: 4px solid var(--h-accent-color);
+    background: #f7fafb;
+    color: #1c2730;
+    font-size: 1.12rem;
+    line-height: 2rem;
+}
+
+.profile-en {
+    color: var(--h-muted-color);
+    font-size: 0.98rem;
+}
+
+.edu-list {
+    display: grid;
+    gap: 1rem;
+    margin-top: 0.8rem;
+}
+
+.edu-item {
+    display: grid;
+    grid-template-columns: 2.2rem 1fr;
+    gap: 0.9rem;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--h-border-color);
+    background: #ffffff;
+}
+
+.edu-icon {
+    line-height: 1.8rem;
+    font-size: 1.35rem;
+}
+
+.edu-title {
+    color: var(--h-title-color);
+    font-weight: 800;
+}
+
+.edu-meta,
+.edu-note {
+    color: var(--h-muted-color);
+    font-size: 0.96rem;
+    line-height: 1.65rem;
+}
+
+.research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 0.7rem;
+}
+
+.research-tags span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0.35rem 0.7rem;
+    border: 1px solid #cbd9df;
+    background: #ffffff;
+    color: #244e60;
+    font-size: 0.95rem;
+    font-weight: 700;
+}
+
 .bg-gradient-primary-to-secondary-light {
     background: #ffffff !important;
 }
