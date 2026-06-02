@@ -1,47 +1,25 @@
+#### Academic Honors
 
-__# 学校荣誉（School Honours）__
+* Doctoral National Scholarship, 2024-2025
+* Student Model of Dongbei University of Finance and Economics, 2025
+* Research Model of Dongbei University of Finance and Economics, 2025
+* Outstanding Communist Party Member at university level
+* Master's National Scholarship, 2023
+* Outstanding Graduate of Liaoning Province, 2024
+* Outstanding Master's Thesis of Liaoning Province
+* First Prize, Liaoning Undergraduate Agricultural Economic Modeling Competition
+* Silver Award, China International College Students' Innovation Competition, 2025
 
-- 1.东北财经大学第十四届学风建设月"学科竞赛先进个人", "Advanced Individuals in Academic Competitions" in the 14th Academic Style Building Month of Dongbei University of Finance and Economics, 2022.05.
-     
-- 2.研究生新生入学奖学金, Scholarships for new postgraduate students, 2022.07. 
+#### Research Projects
 
-- 3.研究生学业奖学金一等奖, First Prize for Postgraduate Academic Scholarship, 2022.11. 
+* Research assistant, National Social Science Fund Major Project: "Employment First, Stabilizing and Expanding Employment: Promotion Mechanisms and Policy Research" (21ZDA099)
+* Research assistant, National Social Science Fund Key Project: "New Trends, New Issues and Policy Mechanisms of Youth Employment" (24AJY021)
+* Research assistant, National Education Science Planning Project: "Comprehensive Evaluation of Employment Quality" (ZKD240455)
+* Research assistant, National Natural Science Foundation of China General Program: "Dynamic Valuation, Mortgage Financing Models and Risk Management Policy of Agricultural Biological Assets" (72273105)
+* Research assistant, National Social Science Fund Project: "Causes of Migrant Workers' Employment Instability, Its Impact on Urbanization and Countermeasures" (16CRK016)
 
-- 4.优秀研究生干部, Outstanding Postgraduate Cadre, 2022.12.
+#### Conference Presentations and Fieldwork
 
-- 5.优秀团支部书记, Outstanding Youth League Branch Secretary, 2023.01.
-      
-- 6.优秀青年志愿者, Outstanding Young Volunteers, 2023.01.
-
-- 7.东北财经大学第十五届学风建设月"科研标兵", "Pioneer of Scientific Research" in the 15th Academic Style Building Month of Dongbei University of Finance and Economics, 2023.05.
-
-- 8.硕士研究生国家奖学金, National Scholarship for Master's Degree, 2023.11.
-
-- 9.辽宁省优秀毕业生, Outstanding Graduates of Liaoning Province, 2024.06.
-
-
-__# 竞赛荣誉（Competition Honours）__
-
-- 1.2021年（第二届）辽宁省大学生农业经济建模大赛一等奖, 2021.10.
-
-- 2.中国社会科学院重大经济社会调查项目《乡村振兴综合调查及中国农村调查数据库建设》优秀调查队员, 2022.09.
-
-- 3.第十八届“挑战杯”全国大学生课外学术科技作品竞赛三等奖, 2023.12.
-
-- 4.“政管学人”全国性大型学术公益调查2024中国社会治理调查（CSGS2024）担任山西组组长, 优秀调查队员, 2024.03.
-
-__# 论文成果奖（Thesis Achievement Award）__
-
-- 1.西南大学经济管理学院第十届研究生学术论坛优秀论文, 2022.05.
-
-- 2.2022年习近平治国理政新理念新思想新战略学习研讨会优秀论文, 2022.09.
-
-- 3.第五届乡村振兴智库论坛 一等奖优秀论文, 2022.10.
-
-- 4.2022广东社会科学学术年会 一等奖优秀论文, 2022.10.
-
-- 5.长三角研究生学术写作论坛优秀奖, 2022.10.
-
-- 6.第二届中国农村发展青年论坛优秀论文, 2022.11.
-
-- 7.中国空间经济学2022年会优秀论文, 2022.12.
+* Presented papers at the 22nd Chinese Economists Society Annual Conference, China Spatial Economics Annual Conference, China Rural Development Youth Forum, China Labor Economists Forum, and other academic meetings.
+* Participated in the Chinese Academy of Social Sciences Major Economic and Social Survey Project "China Rural Revitalization Survey" in 2022 and 2024.
+* Research assistant at the Center for Market Economy, Peking University, September-December 2022.

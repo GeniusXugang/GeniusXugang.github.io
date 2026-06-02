@@ -1,28 +1,51 @@
 @import "./styles.css";
 
+:root {
+    --h-title-color: #1f4b5f;
+    --h-accent-color: #8f5f2f;
+    --h-ink-color: #202428;
+    --h-muted-color: #66717a;
+    --h-border-color: #d9e2e7;
+}
 
-:root{
-    --h-title-color:#3948d2;
+body {
+    color: var(--h-ink-color);
+    font-family: "Mulish", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+}
+
+a {
+    color: #216a8a;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+}
+
+a:hover {
+    color: var(--h-accent-color);
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: 1px solid var(--h-border-color);
+    background: rgba(255, 255, 255, 0.96);
+}
+
+.navbar-brand,
+.nav-link {
+    letter-spacing: 0;
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: #18313d;
 }
 
 .top-section {
     position: relative;
-    padding: 10rem 0;
+    min-height: 31rem;
+    padding: 8.5rem 0 4rem;
+    background:
+        linear-gradient(105deg, rgba(24, 49, 61, 0.95) 0%, rgba(31, 75, 95, 0.88) 48%, rgba(143, 95, 47, 0.82) 100%),
+        url("../assets/img/zheng-xugang.jpg");
     background-position: center;
     background-size: cover;
-    height: 25rem;
-}
-
-.top-section h2 {
-    font-weight: 400;
 }
 
 .top-section .top-section-content {
@@ -30,101 +53,155 @@
     z-index: 1;
 }
 
-.top-section:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+.top-section h1 {
+    font-weight: 650;
+    letter-spacing: 0;
 }
 
-section header h2{
-    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+.top-section h1 span {
+    font-size: 0.72em;
+}
+
+.top-section h2 {
+    max-width: 48rem;
+    font-size: 2rem !important;
+    font-weight: 500;
+}
+
+.top-kicker {
+    margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.top-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 1.6rem;
+}
+
+.top-actions a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.6rem;
+    padding: 0.55rem 0.95rem;
+    border: 1px solid rgba(255, 255, 255, 0.62);
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.top-actions a:hover {
+    background: #ffffff;
+    color: #18313d;
+}
+
+section {
+    scroll-margin-top: 5rem;
+}
+
+section header h2 {
     color: var(--h-title-color);
-    font-size: 2.3rem;
-    line-height: 4rem;
+    font-size: 2.1rem;
+    line-height: 3rem;
+    letter-spacing: 0;
 }
 
-section .main-body{
-    font-size: 1.3rem;
-    font-weight: 200;
-    line-height: 2.4rem;
+section .main-body {
+    font-size: 1.05rem;
+    font-weight: 400;
+    line-height: 1.85rem;
 }
 
+section .main-body h4 {
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+    color: var(--h-title-color);
+    font-size: 1.28rem;
+    font-weight: 750;
+}
+
+section .main-body p,
+section .main-body li {
+    overflow-wrap: anywhere;
+}
+
+section .main-body ol,
+section .main-body ul {
+    padding-left: 1.3rem;
+}
+
+section .main-body li {
+    margin-bottom: 0.75rem;
+}
 
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
+    background: #ffffff !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    background: #f5f7f8 !important;
 }
-
-
-
-.on-top {
-    position: relative;
-    z-index: 10000;
-}
-
-.top-bg {
-    background-position: center;
-    background-size: fill;
-    width: 100%;
-    height: 100%;
-}
-
-.top-bg::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.4);
-}
-
-
 
 .photo {
-    position: relative;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .photo img {
-    margin-right: 10%;
-    height: 12rem;
-    margin-top: 8rem;
-}
-
-
-.photo .screen {
-    position: absolute;
-    background-size: cover;
-    pointer-events: auto;
-}
-
-.photo .button {
-    position: absolute;
-    cursor: pointer;
+    width: 14rem;
+    height: 14rem;
+    margin-top: 1.2rem;
+    object-fit: cover;
+    border: 5px solid rgba(255, 255, 255, 0.88);
 }
 
 @media screen and (max-width: 991px) {
-
-    .photo img {
-        height: 12rem;
-        margin-top: 3rem;
+    .top-section {
+        min-height: 34rem;
+        padding-top: 7rem;
     }
 
-}
-
-@media screen and (max-width: 736px) {
-
-    .photo img {
-        height: 7rem;
-        margin-top: 7rem;
+    .top-section h2 {
+        font-size: 1.55rem !important;
     }
 
+    .photo {
+        justify-content: flex-start;
+        margin-top: 1.4rem;
+    }
+
+    .photo img {
+        width: 10rem;
+        height: 10rem;
+        margin-top: 0;
+    }
 }
 
+@media screen and (max-width: 576px) {
+    .container {
+        padding-left: 1.25rem !important;
+        padding-right: 1.25rem !important;
+    }
+
+    .top-section {
+        min-height: 35rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .top-section h1 {
+        font-size: 2.4rem;
+    }
+
+    .top-actions a {
+        width: 100%;
+        justify-content: center;
+    }
+
+    section header h2 {
+        font-size: 1.6rem;
+        line-height: 2.4rem;
+    }
+}
