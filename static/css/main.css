@@ -123,6 +123,16 @@ section .main-body h4 {
     font-weight: 750;
 }
 
+section .main-body h5 {
+    margin-top: 1.7rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--h-border-color);
+    color: #244e60;
+    font-size: 1.12rem;
+    font-weight: 800;
+}
+
 section .main-body p,
 section .main-body li {
     overflow-wrap: anywhere;
@@ -201,6 +211,27 @@ section .main-body li {
     color: #244e60;
     font-size: 0.95rem;
     font-weight: 700;
+}
+
+.pub-note {
+    padding: 0.85rem 1rem;
+    border-left: 4px solid var(--h-title-color);
+    background: #f7fafb;
+    color: var(--h-muted-color);
+    font-size: 0.98rem;
+}
+
+.pub-role {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 0.35rem;
+    padding: 0.1rem 0.45rem;
+    border: 1px solid #cbd9df;
+    background: #ffffff;
+    color: #244e60;
+    font-size: 0.82rem;
+    font-weight: 800;
+    white-space: nowrap;
 }
 
 .bg-gradient-primary-to-secondary-light {

@@ -1,25 +1,67 @@
-#### Academic Honors
+#### 主要荣誉
 
-* Doctoral National Scholarship, 2024-2025
-* Student Model of Dongbei University of Finance and Economics, 2025
-* Research Model of Dongbei University of Finance and Economics, 2025
-* Outstanding Communist Party Member at university level
-* Master's National Scholarship, 2023
-* Outstanding Graduate of Liaoning Province, 2024
-* Outstanding Master's Thesis of Liaoning Province
-* First Prize, Liaoning Undergraduate Agricultural Economic Modeling Competition
-* Silver Award, China International College Students' Innovation Competition, 2025
+* 2024-2025年博士国家奖学金
+* 2025学年大学生标兵
+* 2025年科研标兵
+* 校级优秀共产党员
+* 2023年硕士研究生国家奖学金
+* 辽宁省优秀毕业生
+* 辽宁省优秀硕士论文
+* 学科竞赛先进个人
+* 一等学业奖学金、优秀团员、优秀学生干部、优秀社会实践个人、三好学生、优秀毕业生
 
-#### Research Projects
+#### 课题参与情况
 
-* Research assistant, National Social Science Fund Major Project: "Employment First, Stabilizing and Expanding Employment: Promotion Mechanisms and Policy Research" (21ZDA099)
-* Research assistant, National Social Science Fund Key Project: "New Trends, New Issues and Policy Mechanisms of Youth Employment" (24AJY021)
-* Research assistant, National Education Science Planning Project: "Comprehensive Evaluation of Employment Quality" (ZKD240455)
-* Research assistant, National Natural Science Foundation of China General Program: "Dynamic Valuation, Mortgage Financing Models and Risk Management Policy of Agricultural Biological Assets" (72273105)
-* Research assistant, National Social Science Fund Project: "Causes of Migrant Workers' Employment Instability, Its Impact on Urbanization and Countermeasures" (16CRK016)
+* 主持：中国商业统计学会一般项目
+* 助研：国家社会科学基金重大项目（编号：21ZDA099）“就业优先、稳定和扩大就业的推动机制与政策研究”
+* 助研：国家社会科学基金重点项目（编号：24AJY021）“青年就业新动向、新问题及其政策机制研究”
+* 助研：全国教育科学规划项目基金项目（编号：ZKD240455）“就业质量综合评价研究”
+* 助研：国家自然科学基金面上项目（编号：72273105）“农业生物资产价值动态评估、抵押融资模式与风险管理政策研究”
+* 助研、协助申请：山西省哲学社会科学专项课题（编号：2024WZ030）“山西优秀传统文化视域下的劳动供给推动机制研究”
+* 助研：国家社会科学基金项目（编号：16CRK016）“农民工就业不稳定的成因、对城镇化的影响及应对策略研究”
+* 助研：辽宁省教育厅高校基本科研项目（LJ112510173042）“新型城镇化促进经济高质量发展的效应与机制：劳动力市场效率的视角”
+* 助研、协助申请：辽宁省教育厅基本科研项目面上项目（编号：LJKMR20221604）“农民工消费行为特征及消费潜力释放的策略研究”
+* 助研、协助申请：东北财经大学省级科研平台研究能力提升专项（编号：PT-Y202226）“数字经济发展与农民工职业层次转变”
 
-#### Conference Presentations and Fieldwork
+#### 论文入选学术会议
 
-* Presented papers at the 22nd Chinese Economists Society Annual Conference, China Spatial Economics Annual Conference, China Rural Development Youth Forum, China Labor Economists Forum, and other academic meetings.
-* Participated in the Chinese Academy of Social Sciences Major Economic and Social Survey Project "China Rural Revitalization Survey" in 2022 and 2024.
-* Research assistant at the Center for Market Economy, Peking University, September-December 2022.
+* 第二十二届中国经济学年会，华南理工大学，2023年
+* 中国空间经济学2022年会，海南大学，2022年，获优秀论文奖
+* 第二届中国农村发展青年论坛，中国社会科学院大学，2022年，获优秀论文奖
+* 习近平治国理政新理念新思想新战略学习研讨会，华南理工大学，2022年，获二等奖
+* 广东社会科学学术年会分会“新发展阶段共同富裕与治理能力现代化”，广东外语外贸大学，2022年，获一等奖
+* 广东经济学会中青年委员会2023年春季季会，北京师范大学（珠海校区），2023年
+* 中国劳动经济学者论坛第二十三次季会，南京财经大学，2023年
+* 中国劳动学会劳动科学教育分会2022年（杭州）年会，浙江大学，2022年
+* 第二十届全国区域经济学学科建设年会，中国人民大学，2022年
+* 2022年国际区域研究协会中国分会年会，北京大学，2022年
+* 中国数量经济学会2022年（大连）年会，东北财经大学，2022年
+* 中国经济高质量发展学术研讨会，中国社会科学院大学，2022年
+* 第三届城市与发展经济学前沿论坛（2022），暨南大学，2022年
+
+#### 其他科研经历
+
+* 参与2022年中国社会科学院重大经济社会调查项目“乡村振兴综合调查”，赴陕西省米脂县与约50名村民访谈完成问卷填写，获评优秀调研员
+* 参与2024年中国社会科学院重大经济社会调查项目“乡村振兴综合调查”，赴宁夏与约30名村民访谈
+* 2022年9月-2022年12月，在北京大学市场经济研究中心担任科研助理
+* 担任《广西财经学院学报》青年编委
+* 担任《山西财经大学学报》《劳动经济研究》等期刊匿名审稿专家
+
+#### 暑期学校与方法训练
+
+* 第五届“京港澳台”人口老龄化专题夏令营，北京大学，2022年，获评优秀营员
+* 第三届武汉大学马克思主义政治经济学暑期学校，武汉大学，2022年
+* 2022年上贸大-YES“面向真实世界的经济研究”，上海对外经贸大学，2022年
+* 2024年上贸大-YES“面向真实世界的经济研究”，上海对外经贸大学，2024年
+* 2022年上海市第八届“计量经济与统计前沿理论和应用”研究生暑期学校，上海社会科学院，2022年
+* 2022年江苏省研究生“应用经济研究方法论”暑期学校，南京农业大学，2022年
+* 2024年江苏省研究生“应用经济研究方法论”暑期学校，南京农业大学，2024年
+* 2023年第六届“香樟青苗”暑期学校，中国社会科学院大学，2023年
+* 2023年清华大数据与因果推断研讨班，清华大学，2023年
+* 2024年清华大数据与因果推断研讨班，清华大学，2024年，获评优秀学员
+
+#### 学科竞赛
+
+* 中国国际大学生创新大赛（2025）银奖
+* 辽宁省农业建模大赛省一等奖
+* 辽宁省第十六届“挑战杯”辽宁省大学生课外学术科技作品竞赛省三等奖

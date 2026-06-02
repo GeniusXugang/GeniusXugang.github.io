@@ -3,7 +3,7 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'publications', 'awards']
-const site_version = '20260602-2'
+const site_version = '20260602-4'
 
 
 window.addEventListener('DOMContentLoaded', event => {
