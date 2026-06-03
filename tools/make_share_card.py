@@ -211,8 +211,12 @@ def main() -> None:
     y += 36
     d.text((left, y), "　　　zhengxugang1999@163.com", fill="#66717a", font=font(24))
 
-    qr = draw_qr(URL, scale=8)
-    qx, qy = 1030, 255
+    standard_qr = OUT_DIR / "homepage-qr.png"
+    if standard_qr.exists():
+        qr = Image.open(standard_qr).convert("RGB").resize((330, 330))
+    else:
+        qr = draw_qr(URL, scale=8)
+    qx, qy = 1045, 275
     d.rounded_rectangle([qx - 28, qy - 28, qx + qr.width + 28, qy + qr.height + 92], radius=8, fill="white")
     card.paste(qr, (qx, qy))
     d.text((qx + 18, qy + qr.height + 26), "扫码访问学术主页", fill="#1f4b5f", font=font(24, True))
